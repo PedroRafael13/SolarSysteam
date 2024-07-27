@@ -18,8 +18,6 @@ Bem-vindo ao Solar System Explorer! Este projeto oferece uma maneira interativa 
 *scss
 
 ## 💻 Layout
-<br />
-
 <h1> Tela Principal <h1>
 
 <div>
